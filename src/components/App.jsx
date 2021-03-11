@@ -33,9 +33,7 @@ console.log(questionNumber)
           if (questionNumber === 3) {
             changeQuestionNumber(0)
           }
-          
-          else {
-            changeQuestionNumber(questionNumber + 1);
+    else {            changeQuestionNumber(questionNumber + 1);
           }
         }}
       />
